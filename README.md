@@ -1,13 +1,13 @@
 # Mini Project Select Topic 1
 
-Rental room service is a smart contract written in Solidity with simple functions like<br /> 
--Set the price of rental room<br /> 
--Set and lock Security deposit money of tenant<br /> 
--Automatically payment for tenant<br /> 
--Changeable checkout time and rental, deposit price<br /> 
--Owner can withdraw or change their owner address<br /> 
+Rental room service is a smart contract written in Solidity, which includes simple functions such as: <br /> 
+-Setting the price of the rental room<br /> 
+-Setting and locking the security deposit money of the tenant<br /> 
+-Automatically processing payments for the tenant<br /> 
+-Allowing for changeable checkout times and rental/deposit prices<br /> 
+-Allowing the owner to withdraw or change their owner address<br /> 
 
-This project is part of Select Topic Blockchain Subject<br /> 
+This project is a part of the Select Topic Blockchain Subject.<br /> 
 
 ### MEMBER
 
